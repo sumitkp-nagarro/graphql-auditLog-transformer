@@ -1,0 +1,1 @@
+# graphql-auditLog-transformer
